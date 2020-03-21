@@ -24,8 +24,9 @@ body {
   background-position: top;
 }
 
-a.nostyle{
-  text-decoration: inherit;
-  color: inherit;
-  cursor: auto;
+a:link, a:visited {
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  cursor: pointer;
 }
