@@ -16,6 +16,7 @@ h1 {
 }
 .paragraphs{
   text-align: justify;
+  font-family: sans-serif;
 }
 
 a:link, a:visited {
