@@ -11,10 +11,10 @@ h1 {
   /* text-align: center; */
 /* } */
 
-p.pages{
+.pages{
   text-align: center;
 }
-p.paragraphs{
+.paragraphs{
   text-align: justify;
 }
 
