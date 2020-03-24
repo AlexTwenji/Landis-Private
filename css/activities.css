@@ -1,0 +1,34 @@
+.Pages {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h2{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.WaterSports {
+  text-align: center;
+}
+
+.Fun {
+  text-align: justify;
+  font-family: sans-serif;
+}
+
+.Event {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.Enjoy {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
+}
