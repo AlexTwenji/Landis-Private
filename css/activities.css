@@ -13,6 +13,15 @@ h2{
   font-family: sans-serif;
 }
 
+.sidebar {
+  width: 20%; 
+  /* float: left; */
+  background-color: rebeccapurple;
+  padding: 0px;
+  border: 2px solid black;
+  margin: 2px;
+}
+
 .WaterSports {
   text-align: center;
 }
@@ -31,4 +40,27 @@ h2{
   font-style: italic;
   font-family: sans-serif;
   font-weight: bold;
+}
+a:link, a:visited {
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  cursor: pointer;
+}
+
+body {
+  background-repeat: no-repeat; 
+  background-size: 2500px;
+  background-position: top;
+}
+
+@media screen and (min-width: 480px) {
+  img {
+    width: 600px;
+  }
+  .Pages {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
 }

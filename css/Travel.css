@@ -1,0 +1,29 @@
+.Pages{
+  text-align: center;
+}
+
+.sidebar {
+  float: left;
+  padding: 2px;
+  border: 2px dotted black;
+  background-color: silver;
+  margin: 5px;
+}
+
+
+.Main h1 {
+  text-align: center; 
+  font-family: sans-serif;
+}
+
+a:link, a:visited {
+  text-decoration: underline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  cursor: pointer;
+}
+body {
+  background-repeat: no-repeat; 
+  background-size: 2000px;
+  background-position: top;
+}

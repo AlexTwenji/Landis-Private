@@ -16,9 +16,6 @@ h2 {
 .pages{
   text-align: center;
 }
-img {
-  width: 600px;
-}
 .paragraphs{
   text-align: justify;
   font-family: sans-serif;
@@ -36,9 +33,14 @@ a:link, a:visited {
   color: black;
   cursor: pointer;
 }
-@media screen and (min-width:480px) {
-
-img {
-  width: 600px;
+body {
+  background-repeat: no-repeat; 
+  background-size: 2000px;
+  background-position: top;
 }
+
+@media screen and (min-width: 480px) {
+  img{
+    width: 600px;
+  }
 }
